@@ -1,0 +1,22 @@
+{
+  "entries": [
+    {
+      "id": "news-1",
+      "title": "Update 1.1",
+      "category": "Update",
+      "description": "Update 1.1 is going to release July 14th 2026!"
+    },
+    {
+      "id": "news-2",
+      "title": "New cards",
+      "category": "Update",
+      "description": "30 new cards are going to be added to the game!"
+    },
+    {
+      "id": "news-3",
+      "title": "New leagues",
+      "category": "Update",
+      "description": "Two new leagues will be added!"
+    }
+  ]
+}
