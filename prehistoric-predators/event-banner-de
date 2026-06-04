@@ -1,0 +1,22 @@
+{
+  "entries": [
+    {
+      "id": "news-1",
+      "title": "Update 1.1",
+      "category": "Neuigkeiten",
+      "description": "Update 1.1 kommt am 14. Juli 2026 heraus!"
+    },
+    {
+      "id": "news-2",
+      "title": "Neue Karten!",
+      "category": "Update",
+      "description": "30 neue Karten werden dem Spiel hinzugefügt!"
+    },
+    {
+      "id": "news-3",
+      "title": "Neue Liga!",
+      "category": "Update",
+      "description": "Zwei neue Ligen werden hinzugefügt!"
+    }
+  ]
+}
