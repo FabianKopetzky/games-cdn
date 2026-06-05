@@ -4,19 +4,22 @@
       "id": "news-1",
       "title": "Update 1.1",
       "category": "Neuigkeiten",
-      "description": "Update 1.1 kommt am 14. Juli 2026 heraus!"
+      "description": "Update 1.1 ist ab jetzt verfügbar!",
+      "bannerImage": "https://raw.githubusercontent.com/FabianKopetzky/games-cdn/refs/heads/main/prehistoric-predators/new_cards.png"
     },
     {
       "id": "news-2",
-      "title": "Neue Karten!",
-      "category": "Update",
-      "description": "30 neue Karten werden dem Spiel hinzugefügt!"
+      "title": "Neue Karten",
+      "category": "Neuigkeiten",
+      "description": "30 neue Karten wurden hinzugefügt. Schalte sie durch das Beenden der Klippenprüfung frei!",
+      "bannerImage": "https://raw.githubusercontent.com/FabianKopetzky/games-cdn/refs/heads/main/prehistoric-predators/new_cards.png"
     },
     {
       "id": "news-3",
-      "title": "Neue Liga!",
-      "category": "Update",
-      "description": "Zwei neue Ligen werden hinzugefügt!"
+      "title": "Neue Ligen",
+      "category": "Neuigkeiten",
+      "description": "Zwei neue Ligen mit mächtigen Gegnern sind jetzt verfügbar!",
+      "bannerImage": "https://raw.githubusercontent.com/FabianKopetzky/games-cdn/refs/heads/main/prehistoric-predators/new_cards.png"
     }
   ]
 }
