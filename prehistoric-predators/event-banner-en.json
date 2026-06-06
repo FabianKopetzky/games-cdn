@@ -5,7 +5,7 @@
       "title": "Update 1.1",
       "category": "Update",
       "description": "Update 1.1 is out now!",
-      "bannerImage": "https://raw.githubusercontent.com/FabianKopetzky/games-cdn/refs/heads/main/prehistoric-predators/new_cards.png"
+      "bannerImage": "https://raw.githubusercontent.com/FabianKopetzky/games-cdn/refs/heads/main/prehistoric-predators/new_version.png"
     },
     {
       "id": "news-2",
@@ -19,7 +19,7 @@
       "title": "New leagues",
       "category": "Update",
       "description": "Two new leagues with powerful enemies have been added!",
-      "bannerImage": "https://raw.githubusercontent.com/FabianKopetzky/games-cdn/refs/heads/main/prehistoric-predators/new_cards.png"
+      "bannerImage": "https://raw.githubusercontent.com/FabianKopetzky/games-cdn/refs/heads/main/prehistoric-predators/new_league.png"
     }
   ]
 }
